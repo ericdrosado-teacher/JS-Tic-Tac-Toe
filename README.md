@@ -1,4 +1,10 @@
-# Eric's Tic Tac Toe Game [![Build Status](https://travis-ci.org/ericdrosado/JS-Tic-Tac-Toe.svg?branch=master)](https://travis-ci.org/ericdrosado/JS-Tic-Tac-Toe)
+# Assigment 1
+In this assignment you will use your knowledge of javascript and change the marker of the Computer player to something other than `O`. In order to complete this assignment you must do the following:
+
+- [ ] You will be working with me as a collaborator so you must follow the GitHub Flow
+- [ ] Follow the instructions below under `To play game locally` to play the game on your computer 🙂
+- [ ] Read the code so you understand the logic 📖
+- [ ] Merge your changes to the main branch
 
 [Click here](https://erics-tic-tac-toe.herokuapp.com) to play!
 
